@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {    
+    margin-top: 0;     
+    font-size: 90px;
+    color: #595b83;
+}
+
+h2 {    
+    margin-top: 0;     
+    font-size: 40px;
+    color: #f6830f;
+}
+
+
+.container-top {
+    position: relative;
+    padding-top: 100px;
+    background-color: burlywood;
+}
+
+.container-top h2 span {
+    text-decoration: underline;
+    position: relative
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: relative;
+    top: 50px;
+    margin-bottom: 300px;
+}
+
+.container-middle {
+    position: relative;
+    padding-top: 100px;
+    background-color: white;
+ }
+
+.container-bottom {
+ 
+}
+
+
+
+.profile {    
+    width: 30%;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+.profile p {
+    line-height: 10;
+}
+
+.profile img {
+    width: 70%;
+}
+
+.skills {
+    padding-top: 100px;
+    line-height: 2;
+}
+
+.skill-row {
+    padding-top: 100px;
+    margin: 100px auto;
+    margin-left: 50px;
+    text-align: left;
+}
+
+.skill-photo1 {
+    float: left;
+    width: 25%;
+    margin-right:20px;
+}
+
+.skill-photo2 {
+    
+    float: right;
+    clear: left;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+a {
+    text-decoration:none;
+}
+
+.contact-me .btn {
+    background-color: violet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.bottom-container {
+    padding: 100px 0;
+    background-color: yellow;    
+}
+
+.bottom-container a {
+    font-size: 20px;    
+    margin: 0 15px;
+    color:blue ;
+}
+
+.bottom-container p {
+    color: crimson;
+    margin-top: 50px;
+}
+
